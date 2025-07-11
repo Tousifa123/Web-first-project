@@ -37,14 +37,24 @@
     color: #4E47FF;font-weight: 700;
 
 }
-.primary-dis{
+.primary-dis nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
 }.logo-header{
     margin-left: 150px;
     margin-top: 30px;
+    display: flex;
+  
+} nav li
+{
+    list-style: none;
+    display: inline-block;
+    justify-content: center;
+    
 }
+
+
 .btn-primary{
     margin-top: 51.5px;
     margin-right:130px;
