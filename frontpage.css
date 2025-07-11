@@ -54,8 +54,6 @@
     justify-content: center;
     
 }
-
-
 .btn-primary{
     margin-top: 51.5px;
     margin-right:130px;
@@ -72,6 +70,7 @@
     font-size:65px;
     color: #252432;
     font-weight: bold;
+    
 
 }
 .stylin-12{
@@ -87,16 +86,11 @@ margin-right:267.5px ;
     font-weight: bold;
     font-size: 42px;
     color: rgba(37, 36, 50, 1);
-    margin-bottom: 23px;
-    
-      
+    margin-bottom: 23px;      
 }
 .tittle-desp{
     color:rgba(37, 36, 50, 0.5);
     font-size: 24px;
-   
-  
-
 }.action{
     display: flex;
     align-items: center;
@@ -111,4 +105,37 @@ margin-right:267.5px ;
     border: none;
     border-radius: 48px;
 }
-
+.second-tittle{
+    font-weight: bold;
+    font-size: 38px;
+    color:rgba(37, 36, 50, 1);
+    text-align: center;
+    margin-bottom: 40px;
+}
+.INFO{
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(78, 71, 255, 1);
+   
+}
+.user-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 158px;
+}.info-para{
+    font-weight:normal;
+    color: ;
+    font-size: 20px;
+    text-align: center;
+}.second-banner{
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 50px 80px;
+    margin-right: 160px;
+    margin-left: 160px;
+    margin-bottom: 116px;
+border: none;
+border-radius: 24px;
+    justify-content: center;
+    align-items: center;
+}
