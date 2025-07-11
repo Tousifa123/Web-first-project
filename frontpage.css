@@ -185,4 +185,66 @@ display: flex;
     margin-right: 100px;
     margin-left: 100px;
     margin-bottom: 116px;
+}.title4 {
+    font-size: 40px;
+    font-weight: bold;
+
+}.para-title{
+    font-size: 25px;
+    font-weight: normal;
+    margin-top: 20px;
+}.newtittle{
+    text-align: center;
+    
+}.newsleter{
+background-color:rgb(187, 220, 220);
+padding: 130px 230px;
+display: flex;
+gap: 20px;
+align-items: center;
+
+}.gettouch {
+    font-size: 97px;
+    font-weight: bold;
+} section input[type="email"]{
+    height: 64px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    background-color:white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+
+}section input[type="text"] {
+    height: 64px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    background-color:white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    margin-top: 10px;
+
+}section input[type="submit"]{
+     height: 64px;padding: 10px 20px;
+      width: 100%;
+      font-size: 24px;
+}.email1{
+    font-size: 25px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-weight: 600px;
+}
+section textarea{height: 80px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    background-color:white;
+    padding: 10px 20px;
+    font-size:25px;
+    border: none;
+    margin-top: 10px;
+
 }
